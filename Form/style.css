@@ -1,0 +1,104 @@
+
+.row{
+	display: -webkit-box;
+  	display: -webkit-flex;
+  	display: -ms-flexbox;
+  	display:         flex;
+}
+
+.margintop{
+	margin-top: 5px;
+}
+
+.left-margin{
+	margin-left: 30px;
+}
+
+.marginleft{
+	margin-left: 10px;
+}
+
+.marginleft input{
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid;
+	width: 250px; 
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
+
+.rating input{
+	width: 60px;
+	border: none;
+}
+
+.rating{
+	width: 20px;
+}
+
+.text{
+	width: 90%;
+}
+
+.num{
+	width: 5%;
+}
+
+.total input{
+	width: 60px;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-weight: lighter;
+}
+
+#date{
+	margin-left: 120px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+#TN{
+	margin-left: 42px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+#CH{
+	margin-left: 53px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+#SS{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+#SH{
+	margin-left: 37px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
